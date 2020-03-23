@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_h">200dp</dimen>
+    <dimen name="detail_tv_a_h">100dp</dimen>
+    <dimen name="detail_tv_a_w">100dp</dimen>
+    <dimen name="detail_iv_h">533dp</dimen>
+    <dimen name="detail_iv_w">209dp</dimen>
+</resources>
